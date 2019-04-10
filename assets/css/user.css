@@ -145,4 +145,7 @@ footer h5 {
 div.container.post {
   margin-bottom:50px;
 }
-
+.wrapper{
+  max-width: 1080px;
+  margin: 0 auto
+}
